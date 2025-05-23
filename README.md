@@ -97,7 +97,7 @@
     <section id="contact">
       <h2>Contact</h2>
       <p>Want to connect or collaborate?</p>
-      <p>Reach me on <a href="https://github.com/" target="_blank">GitHub</a> or send an email to <strong>your-email@example.com</strong>.</p>
+      <p>Reach me on <a href="https://github.com/" target="_blank">GitHub</a> or send an email to <strong>your-email@abduljalilibrahim84@gmail.com</strong>.</p>
     </section>
   </main>
 
